@@ -46,9 +46,9 @@ const createSlider = (
 }
 
 
-let length = createSlider(1, 200, 0.01, "length", 0.5)
-let steps = createSlider(1, 6, 1, "steps", 3)
-let arms = createSlider(1, 15, 1, "steps", 6)
+let length = createSlider(1, 200, 0.01, "length", 39)
+let steps = createSlider(1, 6, 1, "steps", 5)
+let arms = createSlider(1, 15, 1, "steps", 5)
 
 export {
     length,
