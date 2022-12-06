@@ -1,5 +1,5 @@
 import * as sliders from "./user_input/sliders.js";
-import { complex } from "../node_modules/ts-complex-numbers/lib/complex.js";
+import { complex } from "./complex.js";
 import * as s from "./settings/settings.js";
 import * as canvas from "./canvas.js";
 function complexToCoords(c) {
