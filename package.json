@@ -1,15 +1,8 @@
 {
-  "homepage": "https://jon-of-us.github.io/snowflake_fractal",
-  "dependencies": {
-    "ts-complex-numbers": "^1.0.5"
-  },
   "name": "snowflake_fractal",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {
-    "gh-pages": "^4.0.0"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
